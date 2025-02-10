@@ -1,1 +1,1 @@
-This e commerce website build from the Microservice Architecture. 
+This E-Commerce website build from the Microservice Architecture.
